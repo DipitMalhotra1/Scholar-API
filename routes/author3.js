@@ -1,9 +1,12 @@
+/**
+ * Created by dipit on 6/2/17.
+ */
 
 var mongoose= require('mongoose');
 
 var express= require('express');
 var bodyParser = require('body-parser');
-var Authors_1= require('../models/Author_1');
+var Authors_3= require('../models/Author_2');
 var authorRouter = express.Router();
 var MongoClient= require('mongodb').MongoClient,
     assert = require('assert');
@@ -27,7 +30,7 @@ authorRouter.route('/:name')
             var collections = db.collection("authors");
 
 
-            collections.find({Author2Lastname: req.params.name}).toArray(function (err, author) {
+            collections.find({Author3Lastname: req.params.name}).toArray(function (err, author) {
                 assert.equal(err, null);
                 console.log("Found");
                 res.json(author)
@@ -39,7 +42,7 @@ authorRouter.route('/:name')
     })
 
     .delete(function (req,res,next) {
-        Authors_1.remove({}, function (err, resp) {
+        Authors_3.remove({}, function (err, resp) {
             if(err) throw err;
             res.json(resp);
 

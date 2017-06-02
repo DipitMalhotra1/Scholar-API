@@ -24,7 +24,10 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 var citationRouter = require('./routes/citation');
 var titleRouter= require('./routes/titles')
-var authorRouter= require('./routes/author')
+var authorRouter1= require('./routes/author1')
+
+var authorRouter2= require('./routes/author2')
+var authorRouter3=require('./routes/author3')
 var app = express();
 
 // view engine setup
@@ -43,8 +46,9 @@ app.use('/', index);
 app.use('/users', users);
 app.use('/citation', citationRouter);
 app.use('/title', titleRouter);
-app.use('/author',authorRouter);
-
+app.use('/author1',authorRouter1);
+app.use('/author2',authorRouter2);
+app.use('/author3',authorRouter3);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
