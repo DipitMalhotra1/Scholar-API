@@ -1,0 +1,92 @@
+[
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2007.418",
+		"score": 14.594553,
+		"normalizedscore": 100,
+		"title": "Computer Recognizes Expert Reviewers",
+		"fullCitation": "Carl Chang, 2007, 'Computer Recognizes Expert Reviewers', <i>Computer</i>, vol. 40, no. 12, pp. 64-65",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2007.418&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Computer+Recognizes+Expert+Reviewers&amp;rft.jtitle=Computer&amp;rft.date=2007&amp;rft.volume=40&amp;rft.issue=12&amp;rft.spage=64&amp;rft.epage=65&amp;rft.aufirst=Carl&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+Chang",
+		"year": "2007"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2008.12",
+		"score": 14.594553,
+		"normalizedscore": 100,
+		"title": "Computer in 2008",
+		"fullCitation": "Carl K. Chang, 2008, 'Computer in 2008', <i>Computer</i>, vol. 41, no. 1, pp. 10-11",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2008.12&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Computer+in+2008&amp;rft.jtitle=Computer&amp;rft.date=2008&amp;rft.volume=41&amp;rft.issue=1&amp;rft.spage=10&amp;rft.epage=11&amp;rft.aufirst=Carl+K.&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+K.+Chang",
+		"year": "2008"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2007.28",
+		"score": 14.594553,
+		"normalizedscore": 100,
+		"title": "My vision for Computer",
+		"fullCitation": "Carl K. Chang, 2007, 'My vision for Computer', <i>Computer</i>, vol. 40, no. 1, pp. 7-8",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2007.28&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=My+vision+for+Computer&amp;rft.jtitle=Computer&amp;rft.date=2007&amp;rft.volume=40&amp;rft.issue=1&amp;rft.spage=7&amp;rft.epage=8&amp;rft.aufirst=Carl+K.&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+K.+Chang",
+		"year": "2007"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1023/a:1012579501037",
+		"score": 14.594553,
+		"normalizedscore": 100,
+		"title": null,
+		"fullCitation": "Carl K. Chang, 2001, <i>Annals of Software Engineering</i>, vol. 11, no. 1, pp. 11-14",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1023%2Fa%3A1012579501037&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.jtitle=Annals+of+Software+Engineering&amp;rft.date=2001&amp;rft.volume=11&amp;rft.issue=1&amp;rft.spage=11&amp;rft.epage=14&amp;rft.aufirst=Carl+K.&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+K.+Chang",
+		"year": "2001"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1007/978-0-387-79948-3_1453",
+		"score": 14.594553,
+		"normalizedscore": 100,
+		"title": "Emotional Disturbance",
+		"fullCitation": "Lanshin Chang, Rik Carl Dâ€™Amato, 2011, 'Emotional Disturbance', <i>Encyclopedia of Clinical Neuropsychology</i>, pp. 942-943",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1007%2F978-0-387-79948-3_1453&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Emotional+Disturbance&amp;rft.jtitle=Encyclopedia+of+Clinical+Neuropsychology&amp;rft.date=2011&amp;rft.spage=942&amp;rft.epage=943&amp;rft.aufirst=Lanshin&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.au=Lanshin+Chang&amp;rft.au=+Rik+Carl+D%E2%80%99Amato",
+		"year": "2011"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2016.351",
+		"score": 13.544874,
+		"normalizedscore": 92,
+		"title": "Smart Health and Well-Being",
+		"fullCitation": "Upkar Varshney, Carl K. Chang, 2016, 'Smart Health and Well-Being', <i>Computer</i>, vol. 49, no. 11, pp. 11-13",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2016.351&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Smart+Health+and+Well-Being&amp;rft.jtitle=Computer&amp;rft.date=2016&amp;rft.volume=49&amp;rft.issue=11&amp;rft.spage=11&amp;rft.epage=13&amp;rft.aufirst=Upkar&amp;rft.aulast=Varshney&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Upkar+Varshney&amp;rft.au=+Carl+K.+Chang",
+		"year": "2016"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2017.149",
+		"score": 13.544874,
+		"normalizedscore": 92,
+		"title": "Advances in Learning Technologies",
+		"fullCitation": "Carl K. Chang, Sorel Reisman, Edmundo Tovar, 2017, 'Advances in Learning Technologies', <i>Computer</i>, vol. 50, no. 5, pp. 14-17",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2017.149&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Advances+in+Learning+Technologies&amp;rft.jtitle=Computer&amp;rft.date=2017&amp;rft.volume=50&amp;rft.issue=5&amp;rft.spage=14&amp;rft.epage=17&amp;rft.aufirst=Carl+K.&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+K.+Chang&amp;rft.au=+Sorel+Reisman&amp;rft.au=+Edmundo+Tovar",
+		"year": "2017"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2008.158",
+		"score": 13.544874,
+		"normalizedscore": 92,
+		"title": "Introducing the Advanced Technology Executive Forum",
+		"fullCitation": "Rangachar Kasturi, Carl K. Chang, 2008, 'Introducing the Advanced Technology Executive Forum', <i>Computer</i>, vol. 41, no. 5, pp. 67-69",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2008.158&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Introducing+the+Advanced+Technology+Executive+Forum&amp;rft.jtitle=Computer&amp;rft.date=2008&amp;rft.volume=41&amp;rft.issue=5&amp;rft.spage=67&amp;rft.epage=69&amp;rft.aufirst=Rangachar&amp;rft.aulast=Kasturi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Rangachar+Kasturi&amp;rft.au=+Carl+K.+Chang",
+		"year": "2008"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/services-1.2008.107",
+		"score": 13.544874,
+		"normalizedscore": 92,
+		"title": "Towards Services Computing Curriculum",
+		"fullCitation": "Liang-Jie Zhang, Carl K. Chang, 2008, 'Towards Services Computing Curriculum', <i>2008 IEEE Congress on Services - Part I</i>",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fservices-1.2008.107&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Towards+Services+Computing+Curriculum&amp;rft.jtitle=2008+IEEE+Congress+on+Services+-+Part+I&amp;rft.date=2008&amp;rft.aufirst=Liang-Jie&amp;rft.aulast=Zhang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=proceeding&amp;rft.au=Liang-Jie+Zhang&amp;rft.au=+Carl+K.+Chang",
+		"year": "2008"
+	},
+	{
+		"doi": "http://dx.doi.org/10.1109/mc.2009.231",
+		"score": 13.544874,
+		"normalizedscore": 92,
+		"title": "Reversing the Bipolar Drift&#150;Introducing the IAB",
+		"fullCitation": "Carl K. Chang, 2009, 'Reversing the Bipolar Drift&amp;#150;Introducing the IAB', <i>Computer</i>, vol. 42, no. 7, pp. 20-24",
+		"coins": "ctx_ver=Z39.88-2004&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.1109%2Fmc.2009.231&amp;rfr_id=info%3Asid%2Fcrossref.org%3Asearch&amp;rft.atitle=Reversing+the+Bipolar+Drift%26%23150%3BIntroducing+the+IAB&amp;rft.jtitle=Computer&amp;rft.date=2009&amp;rft.volume=42&amp;rft.issue=7&amp;rft.spage=20&amp;rft.epage=24&amp;rft.aufirst=Carl+K.&amp;rft.aulast=Chang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.au=Carl+K.+Chang",
+		"year": "2009"
+	}
+]
