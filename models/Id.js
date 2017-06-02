@@ -115,7 +115,34 @@ var authorSchema =  new Schema({
         type: String,
         required: false,
         default: 'NULL'
-        }
+        },
+
+    Author1Probability: {
+        type: String,
+        required: false,
+        default: 'NULL'
+    },
+
+    Author2Probability: {
+        type: String,
+        required: false,
+        default: 'NULL'
+    },
+    Author3Probability: {
+        type: String,
+        required: false,
+        default: 'NULL'
+    },
+    Author4Probability: {
+        type: String,
+        required: false,
+        default: 'NULL'
+    },
+    Author5Probability: {
+        type: String,
+        required: false,
+        default: 'NULL'
+    }
 
 
 

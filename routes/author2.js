@@ -22,12 +22,10 @@ authorRouter.route('/:name')
             console.log(req);
 
 
+            var collections = db.collection("records");
 
 
-            var collections = db.collection("authors");
-
-
-            collections.find({Author2Lastname: req.params.name}).toArray(function (err, author) {
+            collections.find({Author2Lastname: new RegExp(req.params.name, 'i')}).toArray(function (err, author) {
                 assert.equal(err, null);
                 console.log("Found");
                 res.json(author)

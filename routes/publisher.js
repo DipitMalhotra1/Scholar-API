@@ -1,20 +1,16 @@
-/**
- * Created by dipit on 6/2/17.
- */
-
 var mongoose= require('mongoose');
 
 var express= require('express');
 var bodyParser = require('body-parser');
-var Authors_first= require('../models/Author_first');
-var authorRouter = express.Router();
+var Publisher= require('../models/Author_first');
+var publisherRouter = express.Router();
 var MongoClient= require('mongodb').MongoClient,
     assert = require('assert');
-authorRouter.use(bodyParser.json());
+publisherRouter.use(bodyParser.json());
 
 var url= 'mongodb://localhost:27017/sql2md';
 
-authorRouter.route('/:name')
+publisherRouter.route('/:name')
 
     .get(function (req,res,next) {
 
@@ -26,11 +22,10 @@ authorRouter.route('/:name')
 
 
 
-
             var collections = db.collection("records");
 
 
-            collections.find({Author1Lastname: new RegExp(req.params.name, 'i')}).toArray(function (err, author) {
+            collections.find({Publisher: new RegExp(req.params.name, 'i')}).toArray(function (err, author) {
                 assert.equal(err, null);
                 console.log("Found");
                 res.json(author)
@@ -42,7 +37,7 @@ authorRouter.route('/:name')
     })
 
     .delete(function (req,res,next) {
-        Authors_first.remove({}, function (err, resp) {
+        Publisher.remove({}, function (err, resp) {
             if(err) throw err;
             res.json(resp);
 
@@ -50,4 +45,4 @@ authorRouter.route('/:name')
     });
 
 
-module.exports= authorRouter;
+module.exports= publisherRouter;
